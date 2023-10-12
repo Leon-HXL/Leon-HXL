@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leon-HXL
-- 👀 I’m interested in AlphaFold
-- 🌱 I’m currently learning AlphaFold
+- 👀 I’m interested in AlphaFold and RFDiffsion
+- 🌱 I’m currently learning AlphaFold and RFDiffusion
 - 📫 How to reach me by leonhxl@163.com
 
 <!---
